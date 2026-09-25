@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/Remiux/.github/blob/main/SECURITY.md
+    about: Report vulnerabilities privately. Do not open a public issue.
+  - name: Get help
+    url: https://github.com/Remiux/.github/blob/main/SUPPORT.md
+    about: Where to ask questions about a repository.
+  - name: Work with Remiux
+    url: https://remiux.com
+    about: Custom solutions, products, and anything outside a repository.
