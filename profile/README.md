@@ -19,6 +19,12 @@ SaaS platforms, APIs, AI services, and infrastructure.
 - **Operated technology services** — automation systems and shared
   infrastructure, offered through subscription and usage-based models.
 
+### Where to start
+
+- [**nextjs-base-template**](https://github.com/Remiux/nextjs-base-template) —
+  a Next.js starter with TypeScript, Tailwind CSS, internationalization, tests,
+  and CI. Select **Use this template** to start a project from it.
+
 ### Working with our repositories
 
 Each repository has its own README. Open an issue before a large change, and
@@ -50,6 +56,12 @@ e infraestructura.
 - **Productos digitales propios** — plataformas SaaS, API y servicios de IA.
 - **Servicios tecnológicos operados** — sistemas de automatización e
   infraestructura compartida, con modelos de suscripción y de pago por uso.
+
+#### Por dónde empezar
+
+- [**nextjs-base-template**](https://github.com/Remiux/nextjs-base-template) —
+  una plantilla de Next.js con TypeScript, Tailwind CSS, internacionalización,
+  tests y CI. Elige **Use this template** para empezar un proyecto con ella.
 
 #### Cómo trabajar con nuestros repositorios
 
