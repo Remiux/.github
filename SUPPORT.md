@@ -24,4 +24,5 @@ Do not open an issue. Follow the
 ## Working with Remiux
 
 For custom solutions, products, or anything outside a repository, go to
-[remiux.com](https://remiux.com).
+[remiux.com](https://remiux.com) or write to
+[sales@remiux.com](mailto:sales@remiux.com).

@@ -17,6 +17,9 @@ Report it privately through GitHub:
 
 The report is visible only to you and the repository's maintainers.
 
+If you cannot use GitHub, email [sales@remiux.com](mailto:sales@remiux.com)
+with **Security vulnerability** in the subject line.
+
 Include as much of the following as you can:
 
 - the affected repository, and the version, tag, or commit;

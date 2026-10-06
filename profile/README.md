@@ -27,7 +27,7 @@ first. Report a vulnerability privately, as the
 [security policy](https://github.com/Remiux/.github/blob/main/SECURITY.md)
 describes — never in a public issue.
 
-[remiux.com](https://remiux.com)
+[remiux.com](https://remiux.com) · [sales@remiux.com](mailto:sales@remiux.com)
 
 <details>
 <summary><b>Español</b></summary>
