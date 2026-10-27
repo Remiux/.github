@@ -1,8 +1,5 @@
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Remiux/.github/main/profile/assets/remiux-github-banner-dark-en-v1.0.svg">
-    <img src="https://raw.githubusercontent.com/Remiux/.github/main/profile/assets/remiux-github-banner-en-v1.0.svg" alt="Remiux — Technology built around real needs." width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Remiux/.github/main/profile/assets/remiux-github-banner-en-v2.0.svg" alt="Remiux — Technology built around real needs." width="100%">
 </p>
 
 Remiux is a software and technology company that designs, builds, and operates
